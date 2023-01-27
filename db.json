@@ -1,5 +1,5 @@
 {
-  "hero_api": [
+  "heroapi": [
     {
       "title": "Play With Electric Nike",
       "subtitle": "Adapt 2.0 Sneakers",
@@ -19,7 +19,7 @@
           "img_src": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/video/vcover3.png?raw=true"
         }
       ],
-      "social_links": [
+      "sociallinks": [
         {
           "icon": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/1c4154cc9fc0e9e02435e9dacaa5a655591472c3/src/assets/facebook.svg"
         },
@@ -39,7 +39,7 @@
     }
   ],
 
-  "popular_sales": [
+  "popularsales": [
     {
       "title": "Popular Sales",
       "items": [
