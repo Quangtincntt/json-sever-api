@@ -52,7 +52,7 @@
           "img": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/nike-adapt-bb.png",
           "price": "200",
           "color": "from-blue-600 to-blue-500",
-          "shadow": "shadow-lg shadow-blue-500",
+          "shadow": "shadow-lg shadow-blue-500"
         },
         {
           "id": "0p0x2",
@@ -60,10 +60,10 @@
           "text": "MEN Running Shoes",
           "rating": "4.5",
           "btn": "Buy Now",
-          "img":"https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/nike-air-red.png" ,
+          "img": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/nike-air-red.png",
           "price": "200",
           "color": "from-red-500 to-rose-500",
-          "shadow": "shadow-lg shadow-rose-500",
+          "shadow": "shadow-lg shadow-rose-500"
         },
         {
           "id": "0p0x3",
@@ -74,9 +74,10 @@
           "img": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/nike-adapt-bb-smart.png",
           "price": "200",
           "color": "from-violet-500 to-indigo-500",
-          "shadow": "shadow-lg shadow-violet-500",
-        },
+          "shadow": "shadow-lg shadow-violet-500"
+        }
       ]
+    }
   ],
 
   "products": [
@@ -92,7 +93,7 @@
           "img": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/product7.png",
           "price": "150",
           "color": "from-sky-600 to-indigo-600",
-          "shadow": "shadow-lg shadow-blue-500",
+          "shadow": "shadow-lg shadow-blue-500"
         },
         {
           "id": "0M0x2",
@@ -103,7 +104,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product2.png?raw=true",
           "price": "150",
           "color": "from-green-500 to-emerald-500",
-          "shadow": "shadow-lg shadow-green-500",
+          "shadow": "shadow-lg shadow-green-500"
         },
         {
           "id": "0M0x3",
@@ -114,7 +115,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product3.png?raw=true",
           "price": "150",
           "color": "from-red-500 to-rose-500",
-          "shadow": "shadow-lg shadow-rose-500",
+          "shadow": "shadow-lg shadow-rose-500"
         },
         {
           "id": "0M0x4",
@@ -125,7 +126,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product4.png?raw=true",
           "price": "150",
           "color": "from-orange-500 to-amber-500",
-          "shadow": "shadow-lg shadow-orange-500",
+          "shadow": "shadow-lg shadow-orange-500"
         },
         {
           "id": "0M0x5",
@@ -136,7 +137,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product5.png?raw=true",
           "price": "150",
           "color": "from-gray-900 to-yellow-500",
-          "shadow": "shadow-lg shadow-yellow-500",
+          "shadow": "shadow-lg shadow-yellow-500"
         },
         {
           "id": "0M0x6",
@@ -147,7 +148,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product6.png?raw=true",
           "price": "150",
           "color": "from-blue-500 to-cyan-500",
-          "shadow": "shadow-lg shadow-cyan-500",
+          "shadow": "shadow-lg shadow-cyan-500"
         },
         {
           "id": "0M0x7",
@@ -158,7 +159,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product1.png?raw=true",
           "price": "150",
           "color": "from-yellow-500 to-yellow-500",
-          "shadow": "shadow-lg shadow-yellow-500",
+          "shadow": "shadow-lg shadow-yellow-500"
         },
         {
           "id": "0M0x8",
@@ -169,7 +170,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product9.png?raw=true",
           "price": "150",
           "color": "from-[#936550] to-orange-900",
-          "shadow": "shadow-lg shadow-orange-800",
+          "shadow": "shadow-lg shadow-orange-800"
         },
         {
           "id": "0M0x9",
@@ -180,7 +181,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product10.png?raw=true",
           "price": "150",
           "color": "from-indigo-700 to-indigo-700",
-          "shadow": "shadow-lg shadow-indigo-500",
+          "shadow": "shadow-lg shadow-indigo-500"
         },
         {
           "id": "0M0x10",
@@ -191,7 +192,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product12.png?raw=true",
           "price": "150",
           "color": "from-green-600 to-lime-500",
-          "shadow": "shadow-lg shadow-lime-500",
+          "shadow": "shadow-lg shadow-lime-500"
         },
         {
           "id": "0M0x11",
@@ -202,7 +203,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product12.png?raw=true",
           "price": "150",
           "color": "from-slate-900 to-black",
-          "shadow": "shadow-lg shadow-black",
+          "shadow": "shadow-lg shadow-black"
         },
         {
           "id": "0M0x12",
@@ -213,7 +214,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product11.png?raw=true",
           "price": "150",
           "color": "from-blue-900 to-blue-500",
-          "shadow": "shadow-lg shadow-blue-500",
+          "shadow": "shadow-lg shadow-blue-500"
         },
         {
           "id": "0M0x12",
@@ -224,9 +225,9 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product8.png?raw=true",
           "price": "150",
           "color": "from-blue-900 to-blue-500",
-          "shadow": "shadow-lg shadow-blue-500",
-        },
-      ],
+          "shadow": "shadow-lg shadow-blue-500"
+        }
+      ]
     }
   ]
 }
