@@ -4,19 +4,19 @@
       "title": "Play With Electric Nike",
       "subtitle": "Adapt 2.0 Sneakers",
       "img": "",
-      "btn_text": "Explore Product",
+      "btntext": "Explore Product",
       "videos": [
         {
           "clip": "",
-          "img_src": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/video/vcover1.png"
+          "imgsrc": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/video/vcover1.png"
         },
         {
           "clip": "",
-          "img_src": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/video/vcover2.png"
+          "imgsrc": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/video/vcover2.png"
         },
         {
           "clip": "",
-          "img_src": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/video/vcover3.png?raw=true"
+          "imgsrc": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/video/vcover3.png?raw=true"
         }
       ],
       "sociallinks": [
