@@ -114,7 +114,7 @@
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product3.png?raw=true",
           "price": "150",
           "color": "from-red-500 to-rose-500",
-    "      shadow": "shadow-lg shadow-rose-500",
+          "shadow": "shadow-lg shadow-rose-500",
         },
         {
           "id": "0M0x4",
@@ -226,9 +226,9 @@
           "color": "from-blue-900 to-blue-500",
           "shadow": "shadow-lg shadow-blue-500",
         },
+      ],
     }
-  ],
-
+    ],
   "story" : [
       {
         "title": "Top Stories",
@@ -325,6 +325,5 @@
           },
         ],
       }
-  
   ]
 }
