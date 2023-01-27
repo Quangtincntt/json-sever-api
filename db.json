@@ -243,7 +243,7 @@
           "like": "3/5",
           "time": "11 Mins",
           "by": "Jared Ebanks",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Bro’s Nike Zoom Freak 4",
@@ -253,17 +253,17 @@
           "like": "5/5",
           "url": "https://sneakernews.com/2022/09/14/nike-zoom-freak-4-ironstone-orange-trance-cobblestone-sail-dj6149-003/",
           "by": "Michael Le",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Nike Air Max Plus",
           "text": "The Nike Air Max Plus has enjoyed the reveal of several colorways these last few of months. And as we officially embark on the Fall season, an additional set have been added to the calendar, including this newly-revealed grey and orange colorway.",
           "img": "https://sneakernews.com/wp-content/uploads/2022/09/Nike-Air-Max-Plus-FB3358-001-2.jpg?w=540&h=380&crop=1",
           "time": "2 Hours",
-          "url:" :"https://sneakernews.com/2022/09/14/nike-air-max-plus-grey-orange-black-fb3358-001/",
+          "url:": "https://sneakernews.com/2022/09/14/nike-air-max-plus-grey-orange-black-fb3358-001/",
           "like": "5/5",
           "by": "Michael Le",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Air Jordan Retro High OG",
@@ -273,7 +273,7 @@
           "url:": "https://sneakernews.com/2022/03/09/air-jordan-1-retro-high-og-yellow-toe-555088-711/",
           "like": "5/5",
           "by": "Sneaker News",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Nike Air Zoom GT Cut 2",
@@ -283,7 +283,7 @@
           "url:": "https://sneakernews.com/2022/09/13/nike-zoom-gt-cut-2-officially-unveiled/",
           "like": "3/5",
           "by": "Jared Ebanks",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Puma Announces Breanna",
@@ -293,7 +293,7 @@
           "url:": "https://sneakernews.com/2022/09/13/nike-zoom-gt-cut-2-officially-unveiled/",
           "like": "3/5",
           "by": "Jared Ebanks",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Nike Air Force Orange Color",
@@ -303,7 +303,7 @@
           "time": "6 Days",
           "like": "4/5",
           "by": "Micael Le",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Hello Kitty and Adidas",
@@ -313,7 +313,7 @@
           "time": "5 Days",
           "like": "4/5",
           "by": "Micael Le",
-          "btn": "Read More",
+          "btn": "Read More"
         },
         {
           "title": "Air Force 1 Low Expands",
@@ -323,9 +323,9 @@
           "time": "5 Days",
           "like": "4/5",
           "by": "Micael Le",
-          "btn": "Read More",
-        },
-      ],
+          "btn": "Read More"
+        }
+      ]
     }
   ]
 }
