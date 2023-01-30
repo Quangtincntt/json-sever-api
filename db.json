@@ -175,6 +175,17 @@
           "price": "150",
           "color": "from-blue-900 to-blue-500",
           "shadow": "shadow-lg shadow-blue-500"
+        },
+        {
+          "id": "0M0x12",
+          "title": "Nike Zoom Max",
+          "text": "MEN Running Shoes",
+          "rating": "5+",
+          "btn": "Buy Now",
+          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product8.png?raw=true",
+          "price": "150",
+          "color": "from-blue-900 to-blue-500",
+          "shadow": "shadow-lg shadow-blue-500"
         }
       ]
     }
