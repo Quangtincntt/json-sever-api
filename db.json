@@ -155,15 +155,15 @@
           "shadow": "shadow-lg shadow-lime-500"
         },
         {
-          "id": "0M0x11",
-          "title": "Nike Air Black Max",
+          "id": "0M0x12",
+          "title": "Nike Zoom Max",
           "text": "MEN Running Shoes",
           "rating": "5+",
           "btn": "Buy Now",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product12.png?raw=true",
+          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product11.png?raw=true",
           "price": "150",
-          "color": "from-slate-900 to-black",
-          "shadow": "shadow-lg shadow-black"
+          "color": "from-blue-900 to-blue-500",
+          "shadow": "shadow-lg shadow-blue-500"
         },
         {
           "id": "0M0x12",
