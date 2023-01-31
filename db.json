@@ -102,7 +102,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product6.png?raw=true",
           "price": "150",
-          "color": "from-blue-500 to-cyan-500"
+          "color": "bg-teal-300"
         },
         {
           "id": "0M0x7",
@@ -112,7 +112,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product1.png?raw=true",
           "price": "150",
-          "color": "from-yellow-500 to-yellow-500"
+          "color": "bg-yellow-400"
         },
         {
           "id": "0M0x8",
