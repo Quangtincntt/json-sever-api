@@ -89,7 +89,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product5.png?raw=true",
           "price": "150",
-          "color": "bg-yellow-600	"
+          "color": "bg-yellow-600"
         },
         {
           "id": "0M0x6",
@@ -99,7 +99,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product6.png?raw=true",
           "price": "150",
-          "color": "bg-cyan-600	"
+          "color": "bg-cyan-600"
         },
         {
           "id": "0M0x7",
@@ -119,7 +119,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product9.png?raw=true",
           "price": "150",
-          "color": "bg-amber-400	"
+          "color": "bg-amber-400"
         },
         {
           "id": "0M0x9",
@@ -129,7 +129,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product10.png?raw=true",
           "price": "150",
-          "color": "bg-indigo-600	"
+          "color": "bg-indigo-600"
         },
         {
           "id": "0M0x10",
@@ -149,7 +149,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product11.png?raw=true",
           "price": "150",
-          "color": "bg-blue-600	"
+          "color": "bg-blue-600"
         },
         {
           "id": "0M0x12",
