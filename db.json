@@ -82,7 +82,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product4.png?raw=true",
           "price": "150",
-          "color": "from-orange-500 to-amber-500"
+          "color": "bg-orange-600"
         },
         {
           "id": "0M0x5",
@@ -92,7 +92,7 @@
           "btn": "Buy Now",
           "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product5.png?raw=true",
           "price": "150",
-          "color": "from-gray-900 to-yellow-500"
+          "color": "bg-amber-900"
         },
         {
           "id": "0M0x6",
