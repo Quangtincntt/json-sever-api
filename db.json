@@ -41,117 +41,100 @@
 
   "products": [
     {
-      "title": "Top Rated Sales",
-      "items": [
-        {
-          "id": "0M0x1",
-          "title": "Nike Air Low Premium",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/product7.png",
-          "price": "150",
-          "color": "bg-sky-600"
-        },
-        {
-          "id": "0M0x2",
-          "title": "Nike Air Force Green",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product2.png?raw=true",
-          "price": "150",
-          "color": "bg-green-600"
-        },
-        {
-          "id": "0M0x3",
-          "title": "Nike Addapt BB Rose",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product3.png?raw=true",
-          "price": "150",
-          "color": "bg-rose-600"
-        },
-        {
-          "id": "0M0x4",
-          "title": "Nike Air Premium",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product4.png?raw=true",
-          "price": "150",
-          "color": "bg-orange-600"
-        },
-        {
-          "id": "0M0x5",
-          "title": "Nike Adapt BB Pro",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product5.png?raw=true",
-          "price": "150",
-          "color": "bg-amber-900"
-        },
-        {
-          "id": "0M0x6",
-          "title": "Air Jordan PR3",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product6.png?raw=true",
-          "price": "150",
-          "color": "bg-teal-300"
-        },
-        {
-          "id": "0M0x7",
-          "title": "Nike Multi Smart Shoe",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product1.png?raw=true",
-          "price": "150",
-          "color": "bg-yellow-400"
-        },
-        {
-          "id": "0M0x8",
-          "title": "Nike Jordan Air Max",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product9.png?raw=true",
-          "price": "150",
-          "color": "bg-purple-500"
-        },
-        {
-          "id": "0M0x9",
-          "title": "Nike Old Max-x",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product10.png?raw=true",
-          "price": "150",
-          "color": "bg-purple-800"
-        },
-        {
-          "id": "0M0x10",
-          "title": "Nike Lime Jordan 11",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product12.png?raw=true",
-          "price": "150",
-          "color": "bg-lime-500"
-        },
-        {
-          "id": "0M0x11",
-          "title": "Nike Zoom Max",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product11.png?raw=true",
-          "price": "150",
-          "color": "bg-blue-300"
-        },
-        {
-          "id": "0M0x12",
-          "title": "Nike Zoom Max",
-          "text": "MEN Running Shoes",
-          "btn": "View Products",
-          "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product8.png?raw=true",
-          "price": "150",
-          "color": "bg-sky-800"
-        }
-      ]
+      "id": "0M0x1",
+      "title": "Nike Air Low Premium",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://raw.githubusercontent.com/jsstackdevelopers/nike-store-jsstack/master/src/assets/product7.png",
+      "price": "150"
+    },
+    {
+      "id": "0M0x2",
+      "title": "Nike Air Force Green",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product2.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x3",
+      "title": "Nike Addapt BB Rose",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product3.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x4",
+      "title": "Nike Air Premium",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product4.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x5",
+      "title": "Nike Adapt BB Pro",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product5.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x6",
+      "title": "Air Jordan PR3",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product6.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x7",
+      "title": "Nike Multi Smart Shoe",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product1.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x8",
+      "title": "Nike Jordan Air Max",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product9.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x9",
+      "title": "Nike Old Max-x",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product10.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x10",
+      "title": "Nike Lime Jordan 11",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product12.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x11",
+      "title": "Nike Zoom Max",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product11.png?raw=true",
+      "price": "150"
+    },
+    {
+      "id": "0M0x12",
+      "title": "Nike Zoom Max",
+      "text": "MEN Running Shoes",
+      "btn": "View Products",
+      "img": "https://github.com/jsstackdevelopers/nike-store-jsstack/blob/master/src/assets/product8.png?raw=true",
+      "price": "150"
     }
   ],
 
